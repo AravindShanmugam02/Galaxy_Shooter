@@ -18,7 +18,7 @@ The game, as a complete product, consists of multiple techniques and modules of 
 
 ## Dev Notes
 What’s New?
-* v1.3
+* v0.1.3
   * Changes
     * Android control layout changed.
     * UI buttons layout changed.
@@ -32,7 +32,7 @@ What’s New?
     * Reset best score feature added.
     * Responsive property added to objects.
     * Android & PC v1.3 build release.
-* v1.2
+* v0.1.2
   * Changes
     * UI buttons layout changed.
     * Android control layout changed.
@@ -41,7 +41,7 @@ What’s New?
   * New
     * Rotating text added to asteroid.
     * Android & PC v1.2 build release.
-* v1.1
+* v0.1.1
   * Changes
     * Android control layout changed.
     * UI buttons layout changed.
@@ -51,7 +51,7 @@ What’s New?
   * New
     * Default orientation added for Android build.
     * Android v1.1 build release.
-* v1.0
+* v0.1.0
   * New
     * Initial build release for Android and PC.
 
